@@ -1,0 +1,44 @@
+product_id,product_name,category,unit_cost_usd,selling_price_usd,supplier_lead_time_days,reorder_level_units
+PRD001,Amoxicillin 500mg,Antibiotics,29.32,38.7,7,50
+PRD002,Azithromycin 250mg,Antibiotics,11.21,21.18,21,300
+PRD003,Ciprofloxacin 500mg,Antibiotics,40.31,55.21,10,30
+PRD004,Cephalexin 500mg,Antibiotics,2.8,4.13,14,200
+PRD005,Doxycycline 100mg,Antibiotics,2.65,3.87,21,300
+PRD006,Augmentin 625mg,Antibiotics,25.2,37.2,14,100
+PRD007,Paracetamol 500mg,Pain Relief & Anti-inflammatory,36.71,47.91,5,300
+PRD008,Ibuprofen 400mg,Pain Relief & Anti-inflammatory,19.88,30.26,5,100
+PRD009,Diclofenac 50mg,Pain Relief & Anti-inflammatory,5.95,9.54,7,100
+PRD010,Tramadol 50mg,Pain Relief & Anti-inflammatory,27.76,54.01,21,150
+PRD011,Naproxen 250mg,Pain Relief & Anti-inflammatory,24.83,51.61,10,30
+PRD012,Aspirin 81mg,Pain Relief & Anti-inflammatory,25.51,50.09,14,100
+PRD013,Atorvastatin 20mg,Cardiovascular,26.61,49.59,3,300
+PRD014,Amlodipine 5mg,Cardiovascular,11.41,17.47,3,50
+PRD015,Lisnopril 10mg,Cardiovascular,39.19,62.86,10,300
+PRD016,Losartan 50mg,Cardiovascular,37.78,54.03,7,50
+PRD017,Metoprolol 50mg,Cardiovascular,30.65,57.05,21,300
+PRD018,Clopidogrel 75mg,Cardiovascular,4.61,8.33,14,300
+PRD019,Metformin 500mg,Antidiabetics,12.15,20.29,7,300
+PRD020,Gliclazide 80mg,Antidiabetics,31.44,46.4,7,30
+PRD021,Sitagliptin 100mg,Antidiabetics,11.46,15.19,7,150
+PRD022,Empagliflozin 10mg,Antidiabetics,13.15,19.31,14,300
+PRD023,Insulin Glargine 100IU/ml,Antidiabetics,15.19,27.71,10,300
+PRD024,Salbutamol Inhaler 100mcg,Respiratory,21.46,32.45,5,300
+PRD025,Montelukast 10mg,Respiratory,25.92,39.14,14,150
+PRD026,Fluticasone Inhaler,Respiratory,40.56,65.69,5,50
+PRD027,Cetirizine 10mg,Respiratory,23.66,32.48,3,30
+PRD028,Loratadine 10mg,Respiratory,8.15,11.64,21,150
+PRD029,Omeprazole 20mg,Gastrointestinal,27.44,44.12,14,150
+PRD030,Pantoprazole 40mg,Gastrointestinal,24.52,50.92,3,300
+PRD031,Ranitidine 150mg,Gastrointestinal,32.85,60.62,14,100
+PRD032,Loperamide 2mg,Gastrointestinal,34.93,54.91,7,150
+PRD033,Domperidone 10mg,Gastrointestinal,8.38,10.92,21,300
+PRD034,Vitamin D3 1000IU,Vitamins & Supplements,12.96,22.04,5,200
+PRD035,Vitamin C 500mg,Vitamins & Supplements,41.2,82.25,7,300
+PRD036,Calcium + D3,Vitamins & Supplements,23.58,34.41,7,50
+PRD037,B-Complex Ultra,Vitamins & Supplements,24.96,48.0,14,30
+PRD038,Zinc 50mg,Vitamins & Supplements,27.55,46.58,3,100
+PRD039,Omega-3 Fish Oil 1000mg,Vitamins & Supplements,39.72,78.06,7,50
+PRD040,Hydrocortisone Cream 1%,Dermatology & Topical,4.02,8.05,3,30
+PRD041,Clotrimazole Cream 1%,Dermatology & Topical,33.34,65.11,14,50
+PRD042,Betamethasone Ointment,Dermatology & Topical,7.09,11.91,14,50
+PRD043,Mupirocin Ointment 2%,Dermatology & Topical,13.03,26.03,10,50
